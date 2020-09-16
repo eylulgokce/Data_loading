@@ -12,7 +12,7 @@ This is a base code for downloding the dataset from the web and unziping them. Y
 - IMDB
 - WebKB
 
-To run the code, cereate the class with defining subset, encoding and root directory (defaults are: subset="train", encoding="utf8", root="C:\Data") and call the data or target of the dateset. 
+To run the code, create the class with defining subset, encoding and root directory (defaults are: subset="train", encoding="utf8", root="C:\Data") and call the data or target of the dateset. 
 
 Example code for running the code:
 
