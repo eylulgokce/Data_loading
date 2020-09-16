@@ -14,7 +14,7 @@ This is a base code for downloding the dataset from the web and unziping them. Y
 
 To run the code, create the class with defining subset, encoding and root directory (defaults are: subset="train", encoding="utf8", root="C:\Data") and call the data or target of the dateset. 
 
-Example code for running the code:
+Example for running the code:
 
 ```
   ag = AGNews("test")
